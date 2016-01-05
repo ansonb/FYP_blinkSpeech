@@ -1,3 +1,9 @@
+/**
+*
+*@author Anson Bastos
+*
+*
+**/
 #include <stdint.h>
 #include "driverlib.h"
 #include "grlib.h"
